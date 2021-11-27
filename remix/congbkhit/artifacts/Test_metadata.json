@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.10+commit.fc410830"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getData",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "data",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"congbkhit/deploy.sol": "Test"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"congbkhit/deploy.sol": {
+			"keccak256": "0x64fbc310e8626372cacd9a11d41494ce5939c4cce10ac6a0d2b327610387a149",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://0a2a8a23aefb942f0466c453d64bdcfb962a7a28c9a128f17b15a22b793f2582",
+				"dweb:/ipfs/QmNcK7LgYyDMAa4ZKNZs5xYi89WjgJiZKti8iArjDNimj3"
+			]
+		}
+	},
+	"version": 1
+}

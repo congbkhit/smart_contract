@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.9+commit.e5eed63a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"congbkhit/safemon.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"congbkhit/safemon.sol": {
+			"keccak256": "0x08bb39bac88ea0b86bc5c5ef783b7cbf6fbd963f963d4886959c8794ae41e8af",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://e1ee0cea88bb8c47f981e0a30844507d1242e1f5029a6149cafeae3fd2be5798",
+				"dweb:/ipfs/Qmd1DUNkcqEwNKaWqUVMtugvbHHbhN69mCR3kYs53XTEPY"
+			]
+		}
+	},
+	"version": 1
+}
